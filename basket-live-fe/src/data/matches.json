@@ -1,0 +1,50 @@
+[
+  {
+    "id": "m1",
+    "groupName": "Group A",
+    "round": 1,
+    "date": "2026-06-28",
+    "time": "10:00",
+    "venue": "Costinești Court 1",
+    "homeTeamId": "bba",
+    "awayTeamId": "fan-baschet",
+    "homeScore": 42,
+    "awayScore": 28,
+    "status": "FINISHED"
+  },
+  {
+    "id": "m2",
+    "groupName": "Group A",
+    "round": 1,
+    "date": "2026-06-28",
+    "time": "11:00",
+    "venue": "Costinești Court 2",
+    "homeTeamId": "dan-dacian",
+    "awayTeamId": "laguna",
+    "homeScore": 35,
+    "awayScore": 31,
+    "status": "FINISHED"
+  },
+  {
+    "id": "m3",
+    "groupName": "Group A",
+    "round": 2,
+    "date": "2026-06-29",
+    "time": "09:30",
+    "venue": "Costinești Court 1",
+    "homeTeamId": "bba",
+    "awayTeamId": "dan-dacian",
+    "status": "SCHEDULED"
+  },
+  {
+    "id": "m4",
+    "groupName": "Group A",
+    "round": 2,
+    "date": "2026-06-29",
+    "time": "12:00",
+    "venue": "Costinești Court 2",
+    "homeTeamId": "laguna",
+    "awayTeamId": "fan-baschet",
+    "status": "SCHEDULED"
+  }
+]

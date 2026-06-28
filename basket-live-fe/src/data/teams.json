@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bba",
+    "name": "ACS Educație și Performanță prin Baschet București",
+    "shortName": "BBA București",
+    "city": "București"
+  },
+  {
+    "id": "dan-dacian",
+    "name": "Dan Dacian București",
+    "shortName": "Dan Dacian",
+    "city": "București"
+  },
+  {
+    "id": "laguna",
+    "name": "Laguna București",
+    "shortName": "Laguna",
+    "city": "București"
+  },
+  {
+    "id": "fan-baschet",
+    "name": "Fan Baschet Otopeni",
+    "shortName": "Fan Baschet",
+    "city": "Otopeni"
+  }
+]
